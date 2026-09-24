@@ -1,8 +1,8 @@
 {
-  "name": "Jakarta Waste Intelligence System",
+  "name": "Sistem Intelijen Sampah Jakarta",
   "short_name": "JWIS",
-  "description": "AI command center for Jakarta waste fleet operations. Install as the field app, driver app, or command center.",
-  "lang": "en",
+  "description": "Pusat kendali AI untuk operasi armada sampah Jakarta. Terpasang sebagai aplikasi lapangan, pengemudi, atau pusat kendali.",
+  "lang": "id",
   "dir": "ltr",
   "start_url": "/",
   "display": "standalone",
@@ -18,16 +18,16 @@
   ],
   "shortcuts": [
     {
-      "name": "Field Operations",
-      "short_name": "Field",
-      "description": "Open the field worker app",
+      "name": "Operasi Lapangan",
+      "short_name": "Lapangan",
+      "description": "Buka aplikasi petugas lapangan",
       "url": "/field",
       "icons": [{ "src": "/jwis-icon.svg", "sizes": "192x192" }]
     },
     {
-      "name": "Driver App",
-      "short_name": "Driver",
-      "description": "Open the truck driver app",
+      "name": "Aplikasi Pengemudi",
+      "short_name": "Pengemudi",
+      "description": "Buka aplikasi pengemudi truk",
       "url": "/driver",
       "icons": [{ "src": "/jwis-icon.svg", "sizes": "192x192" }]
     }
